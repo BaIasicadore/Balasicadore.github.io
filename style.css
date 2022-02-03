@@ -14,6 +14,12 @@ body {
     padding: 10px
 }
 
+#subhead {
+    padding: 5px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ 
+}
+
 #nav {
     padding: 1px;
     text-align: left;
@@ -26,18 +32,23 @@ body {
   
 }
 
-#subhead {
-    padding: 15px;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
- 
-}
+
 #content{
-    padding: 15px;
+    padding: 5px;
     overflow: scroll;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    
 }
 
 #rickroll {
     padding: 0px 0px 0px 5px
+}
+
+#pic {
+    padding: 2px;
+}
+
+#footer {
+    font-family:'Courier New', Courier, monospace;
+    padding: 5px
+
 }
